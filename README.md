@@ -7,8 +7,7 @@ $ sudo apt-gte install xboxdrv
 ```
 
 You need to by an [adaptor](https://www.amazon.com/Microsoft-Xbox-Wireless-Receiver-Windows/dp/B000HZFCT2/ref=sr_1_3?ie=UTF8&qid=1532506357&sr=8-3&keywords=xbox360+wireless+adaptor&refinements=p_72%3A2661618011):
-
-<div style="text-align:center">![img](adaptor.jpeg)</div>
+![img](adaptor.jpeg)
 
 When the usb receiver was connected, check if it's detected and get ID (probably needed later):
 ```Shell
@@ -23,8 +22,7 @@ $ sudo xboxdrv --detach-kernel-driver
 ```
 
 Don't forget to contect controller the fisrt time at least:
-
-<dev style="text-align:center">![img](images.jpeg)</div>
+![img](images.jpeg)
 
 If you get an error, you can add parameter to you cmd line:
 ```Shell
